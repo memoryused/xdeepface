@@ -1,0 +1,25 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+
+### Flask ###
+.evv
+
+# Distribution / packaging
+target/
+build/
+dist/
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+
+# dependencies
+/node_modules
+
+# Model
+benchmarks/dataset/
+
+# Dataset
+data_db/
